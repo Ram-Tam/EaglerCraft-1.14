@@ -1,5 +1,7 @@
 **Eaglercraft Version 1.14** - Remade After DMCA
 -
+Project is being taken down by @Mojang .. Make a fork
+-
 💬 **Discord**: [Official Discord](https://discord.gg/Vf8gx85t).          
 
 ⏰ **Expected Arrival**: November or December
